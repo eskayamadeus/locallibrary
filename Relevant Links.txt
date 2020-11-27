@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/42077532/django-security-and-settings
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
